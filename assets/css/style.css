@@ -11,44 +11,44 @@ h1,h2,h3,h4,h5,h6{
 }
 .theme-icon-holder {
     color: #fff;
-    background: #4B5DAB;
+    background: #8b5cf6;
 }
 
 .nav-link {
-    color: #4B5DAB;
+    color: #8b5cf6;
 }
 
 .btn-primary {
-    background: #4B5DAB;
+    background: #8b5cf6;
     color: #fff;
 }
 
 .btn:hover {
     color: #fff;
-    background-color: #4B5DAB;
-    border-color: #4B5DAB;
+    background-color: #8b5cf6;
+    border-color: #8b5cf6;
 }
 
 a {
-    color: #4B5DAB;
+    color: #8b5cf6;
     text-decoration: none;
 }
 
 .docs-nav .nav-item.active .nav-link {
-    color: #4B5DAB;
+    color: #8b5cf6;
 }
 
 .docs-nav .nav-item.active .nav-link .theme-icon-holder {
     color: #fff;
-    background: #4B5DAB;
+    background: #8b5cf6;
 }
 
 .docs-nav .nav-item.active .nav-link:before {
-    background-color: #4B5DAB;
+    background-color: #8b5cf6;
 }
 
 .social-list li a {
-    color: #4B5DAB;
+    color: #8b5cf6;
 }
 
 .w-25{
